@@ -1,0 +1,21 @@
+.content{border-style: solid;
+        border-radius: 15pt;
+        padding: 5pt;}
+body{margin-left: 20pt;
+    margin-right: 20pt;
+    background-color: aliceblue;
+    }
+
+.s-article__menu-title{font-size: x-large;
+                                margin-left: 10px;
+                            color: black;
+                        font-weight: bold;
+                    padding-left: 10pt;}
+.picture {
+    display: flex;
+    width: 100%;
+    height: auto;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;}
